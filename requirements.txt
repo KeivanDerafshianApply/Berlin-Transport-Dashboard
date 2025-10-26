@@ -1,0 +1,4 @@
+requests
+pandas
+streamlit
+# Optional: Add numpy if not implicitly installed by pandas
